@@ -1,6 +1,9 @@
 # Sales Analysis Dashboard 
 This dashboard has been developed in Microsoft Excel to help visualize and analyze sales data. Below is an overview of the features and functionalities of the dashboard.
 
+
+![Excel](https://github.com/JerezC/SalesExcelDashboard/assets/93846231/89d9106a-e9c6-4a8c-b5ad-a62a4ca75e7b)
+
 ## Key Features
 - The dashboard presents the sales data in the form of interactive charts and tables to facilitate understanding and analysis.
 
